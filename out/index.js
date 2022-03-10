@@ -1,4 +1,5 @@
 "use strict";
+// resource: https://www.youtube.com/watch?v=QqHaDrsj8VA&list=PLsCs8YwnvP88lUF2Z5qRP28pXBh3ef9Rz
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
