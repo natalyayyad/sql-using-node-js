@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/natalyayyad/sql-using-node-js#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
